@@ -1,4 +1,5 @@
 # stm32f407vgt6-arm-cortex-m4
+Bare metal programming. 
 
 Device Drivers for SPI, I2C, UART.
 
